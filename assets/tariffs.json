@@ -1,0 +1,749 @@
+[
+  {
+    "name": "Star 1 GB",
+    "gb": 1,
+    "minutes": "2000 minutes",
+    "price": 340.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Star+ 3 GB",
+    "gb": 3,
+    "minutes": "1000 minutes",
+    "price": 380.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Star+ 5 GB",
+    "gb": 5,
+    "minutes": "1000 minutes",
+    "price": 420.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Star+ 10 GB",
+    "gb": 10,
+    "minutes": "1000 minutes",
+    "price": 500.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Star+ 15 GB",
+    "gb": 15,
+    "minutes": "1000 minutes",
+    "price": 580.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Star+ 20 GB",
+    "gb": 20,
+    "minutes": "2000 minutes",
+    "price": 660.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Star+ 25 GB",
+    "gb": 150,
+    "minutes": "1000 minutes",
+    "price": 740.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Star+ 35 GB",
+    "gb": 35,
+    "minutes": "1000 minutes",
+    "price": 880.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Platinum+ 50 GB",
+    "gb": 50,
+    "minutes": "3000 minutes",
+    "price": 1000.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Platinum+ 70 GB",
+    "gb": 70,
+    "minutes": "3000 minutes",
+    "price": 1150.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Platinum+ 50 GB",
+    "gb": 50,
+    "minutes": "3000 minutes",
+    "price": 1000.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Platinum+ Black 90 GB",
+    "gb": 90,
+    "minutes": "3000 minutes",
+    "price": 1350.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Platinum+ Black 120 GB",
+    "gb": 120,
+    "minutes": "3000 minutes",
+    "price": 1550.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Platinum+ Black 160 GB",
+    "gb": 160,
+    "minutes": "3000 minutes",
+    "price": 1850.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Yıllık - Dev Star 120 GB",
+    "gb": 120,
+    "minutes": "12000 minutes",
+    "price": 450.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Yıllık - Dev Platinum Star 240 GB",
+    "gb": 240,
+    "minutes": "24000 minutes",
+    "price": 600.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Yıllık - Dev Platinum Star 480 GB",
+    "gb": 480,
+    "minutes": "24000 minutes",
+    "price": 850.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Esneyen Paket",
+    "gb": 5,
+    "minutes": "1500 minutes",
+    "price": 370.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "GNÇ+ 10 GB",
+    "gb": 10,
+    "minutes": "1000 minutes",
+    "price": 400.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "GNÇ+ 20 GB",
+    "gb": 20,
+    "minutes": "1000 minutes",
+    "price": 550.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "GNÇ+ 30 GB",
+    "gb": 30,
+    "minutes": "1000 minutes",
+    "price": 670.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "GNÇ+ 10 GB",
+    "gb": 10,
+    "minutes": "1000 minutes",
+    "price": 400.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "GNÇ+ 50 GB",
+    "gb": 50,
+    "minutes": "1000 minutes",
+    "price": 880.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Prestij 5 GB",
+    "gb": 5,
+    "minutes": "1000 minutes",
+    "price": 270.0,
+    "specification": "Turkcell",
+    "specialPriceFirstMonths": 270,
+    "specialPriceRemainingMonths": 320,
+    "firstMonthsCount": 3,
+    "remainingMonthsCount": 9
+  },
+  {
+    "name": "Prestij 10 GB",
+    "gb": 10,
+    "minutes": "1000 minutes",
+    "price": 310.0,
+    "specification": "Turkcell",
+    "specialPriceFirstMonths": 310,
+    "specialPriceRemainingMonths": 400,
+    "firstMonthsCount": 3,
+    "remainingMonthsCount": 9
+  },
+  {
+    "name": "Bol Star 15 GB",
+    "gb": 15,
+    "minutes": "1000 minutes",
+    "price": 310.0,
+    "specification": "Turkcell",
+    "specialPriceFirstMonths": 310,
+    "specialPriceRemainingMonths": 400,
+    "firstMonthsCount": 3,
+    "remainingMonthsCount": 9
+  },
+  {
+    "name": "Cazip Fırsat 12 GB",
+    "gb": 7,
+    "minutes": "Sosyal Medya 5 GB",
+    "price": 350.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Prestij 20 GB",
+    "gb": 20,
+    "minutes": "1000 minutes",
+    "price": 390.0,
+    "specification": "Turkcell",
+    "specialPriceFirstMonths": 390,
+    "specialPriceRemainingMonths": 500,
+    "firstMonthsCount": 3,
+    "remainingMonthsCount": 9
+  },
+  {
+    "name": "Bol Star 30 GB",
+    "gb": 30,
+    "minutes": "1000 minutes",
+    "price": 390.0,
+    "specification": "Turkcell",
+    "specialPriceFirstMonths": 390,
+    "specialPriceRemainingMonths": 500,
+    "firstMonthsCount": 3,
+    "remainingMonthsCount": 9
+  },
+  {
+    "name": "Cazip Fırsat 15 GB",
+    "gb": 15,
+    "minutes": "Sosyal Medya 5 GB",
+    "price": 400.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "PLatinum Bol Star 50 GB",
+    "gb": 50,
+    "minutes": "1000 minutes",
+    "price": 490.0,
+    "specification": "Turkcell",
+    "specialPriceFirstMonths": 490,
+    "specialPriceRemainingMonths": 600,
+    "firstMonthsCount": 3,
+    "remainingMonthsCount": 9
+  },
+  {
+    "name": "PLatinum Cazip Fırsat 30 GB",
+    "gb": 30,
+    "minutes": "1500 minutes",
+    "price": 500.0,
+    "specification": "Turkcell"
+  },
+  {
+    "name": "Prestij 30 GB",
+    "gb": 30,
+    "minutes": "1000 minutes",
+    "price": 510.0,
+    "specification": "Turkcell",
+    "specialPriceFirstMonths": 510,
+    "specialPriceRemainingMonths": 620,
+    "firstMonthsCount": 3,
+    "remainingMonthsCount": 9
+  },
+  {
+    "name": "Prestij 40 GB",
+    "gb": 40,
+    "minutes": "1000 minutes",
+    "price": 620.0,
+    "specification": "Turkcell",
+    "specialPriceFirstMonths": 320,
+    "specialPriceRemainingMonths": 730,
+    "firstMonthsCount": 3,
+    "remainingMonthsCount": 9
+  },
+  {
+    "name": "Platinum Prestij 60 GB",
+    "gb": 60,
+    "minutes": "1000 minutes",
+    "price": 740.0,
+    "specification": "Turkcell",
+    "specialPriceFirstMonths": 740,
+    "specialPriceRemainingMonths": 850,
+    "firstMonthsCount": 3,
+    "remainingMonthsCount": 9
+  },
+  {
+    "name": "Platinum Prestij 80 GB",
+    "gb": 30,
+    "minutes": "1000 minutes",
+    "price": 790.0,
+    "specification": "Turkcell",
+    "specialPriceFirstMonths": 790,
+    "specialPriceRemainingMonths": 900,
+    "firstMonthsCount": 3,
+    "remainingMonthsCount": 9
+  },
+  {
+    "name": "Esnaf Avantaj 5 GB",
+    "gb": 5,
+    "minutes": "3000 minutes",
+    "price": 230.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Esnaf Avantaj 10 GB",
+    "gb": 10,
+    "minutes": "3000 minutes",
+    "price": 270.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Esnaf Avantaj 20 GB",
+    "gb": 120,
+    "minutes": "3000 minutes",
+    "price": 330.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Esnaf Avantaj 30 GB",
+    "gb": 30,
+    "minutes": "3000 minutes",
+    "price": 420.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Esnaf Avantaj 50 GB",
+    "gb": 50,
+    "minutes": "3000 minutes",
+    "price": 625.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "GNÇ Avantaj 10 GB",
+    "gb": 10,
+    "minutes": "1000 minutes",
+    "price": 250.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "GNÇ Avantaj 20 GB",
+    "gb": 20,
+    "minutes": "1000 minutes",
+    "price": 340.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "GNÇ Avantaj 30 GB",
+    "gb": 30,
+    "minutes": "1000 minutes",
+    "price": 430.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "GNÇ Avantaj 60 GB",
+    "gb": 60,
+    "minutes": "2000 minutes",
+    "price": 590.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "GNÇ Avantaj 90 GB",
+    "gb": 90,
+    "minutes": "2000 minutes",
+    "price": 680.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Turkcell Yapboz Small 8 GB",
+    "gb": 8,
+    "minutes": "500 minutes",
+    "price": 200.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Turkcell Yapboz Medium 12 GB",
+    "gb": 12,
+    "minutes": "500 minutes",
+    "price": 260.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Turkcell Yapboz Large 20 GB",
+    "gb": 8,
+    "minutes": "500 minutes",
+    "price": 340.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Aynen Yeni Favorim 5 GB",
+    "gb": 5,
+    "minutes": "1000 minutes",
+    "price": 170.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Aynen Yeni Favorim 10 GB",
+    "gb": 10,
+    "minutes": "1000 minutes",
+    "price": 250.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Aynen Yeni Favorim 20 GB",
+    "gb": 20,
+    "minutes": "1000 minutes",
+    "price": 325.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Aynen Yeni Favorim 25 GB",
+    "gb": 25,
+    "minutes": "1000 minutes",
+    "price": 350.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Aynen Yeni Favorim 40 GB",
+    "gb": 40,
+    "minutes": "2000 minutes",
+    "price": 425.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Platinum Aynen Yeni Favorim 60 GB",
+    "gb": 60,
+    "minutes": "2000 minutes",
+    "price": 475.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Aynen Favorim 40 GB",
+    "gb": 40,
+    "minutes": "2000 minutes",
+    "price": 590.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Aynen Favorim 5 GB",
+    "gb": 5,
+    "minutes": "1000 minutes",
+    "price": 300.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Aynen Favorim 10 GB",
+    "gb": 10,
+    "minutes": "1000 minutes",
+    "price": 350.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Aynen Favorim 20 GB",
+    "gb": 20,
+    "minutes": "1000 minutes",
+    "price": 390.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Aynen Favorim 25 GB",
+    "gb": 25,
+    "minutes": "1000 minutes",
+    "price": 460.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Platinum Aynen Yeni Favorim 60 GB",
+    "gb": 60,
+    "minutes": "2000 minutes",
+    "price": 690.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "GNÇ Platinum Favorim 150 GB",
+    "gb": 60,
+    "minutes": "2000 minutes",
+    "price": 1050.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Platinum Favorim 80 GB",
+    "gb": 80,
+    "minutes": "2000 minutes",
+    "price": 1050.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Platinum Favorim 60 GB",
+    "gb": 60,
+    "minutes": "2000 minutes",
+    "price": 950.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Platinum Black Favorim 200 GB",
+    "gb": 200,
+    "minutes": "2000 minutes",
+    "price": 1750.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Yeni Platinum Black Favorim 100 GB",
+    "gb": 80,
+    "minutes": "2000 minutes",
+    "price": 900.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Yeni Platinum Favorim 60 GB",
+    "gb": 80,
+    "minutes": "2000 minutes",
+    "price": 700.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Kaçmaz Festival 10 GB",
+    "gb": 10,
+    "minutes": "1000 minutes",
+    "price": 350.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Kaçmaz Festival 20 GB",
+    "gb": 20,
+    "minutes": "1000 minutes",
+    "price": 450.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Kaçmaz Festival 40 GB",
+    "gb": 40,
+    "minutes": "1000 minutes",
+    "price": 600.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "Kaçmaz Festival 60 GB",
+    "gb": 60,
+    "minutes": "1000 minutes",
+    "price": 650.0,
+    "specification": "Turkcell_new_user"
+  },
+  {
+    "name": "2025 Kırmızı Fırsat 3 GB",
+    "gb": 3,
+    "minutes": "1000 minutes",
+    "price": 118.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 Kırmızı Fırsat 10 GB",
+    "gb": 10,
+    "minutes": "1000 minutes",
+    "price": 158.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 Kırmızı Fırsat 20 GB",
+    "gb": 20,
+    "minutes": "1000 minutes",
+    "price": 208.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 Kırmızı Fırsat 30 GB",
+    "gb": 30,
+    "minutes": "1000 minutes",
+    "price": 285.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 Kırmızı Fırsat 60 GB",
+    "gb": 60,
+    "minutes": "1000 minutes",
+    "price": 392.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 İlk Hattım 5 GB",
+    "gb": 5,
+    "minutes": "1000 minutes",
+    "price": 172.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 İlk Hattım 10 GB",
+    "gb": 10,
+    "minutes": "1000 minutes",
+    "price": 197.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 İlk Hattım 20 GB",
+    "gb": 20,
+    "minutes": "1000 minutes",
+    "price": 256.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 Bütçe Dostu 4 GB",
+    "gb": 4,
+    "minutes": "1000 minutes",
+    "price": 270.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 Bütçe Dostu 8 GB",
+    "gb": 8,
+    "minutes": "1000 minutes",
+    "price": 330.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 Bütçe Dostu 12 GB",
+    "gb": 12,
+    "minutes": "1000 minutes",
+    "price": 380.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 Bütçe Dostu 16 GB",
+    "gb": 16,
+    "minutes": "1000 minutes",
+    "price": 420.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "2025 Bütçe Dostu 20 GB",
+    "gb": 20,
+    "minutes": "1000 minutes",
+    "price": 480.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Genç Yeni Hat Bütçe Dostu 4+4 GB",
+    "gb": 8,
+    "minutes": "1000 minutes",
+    "price": 240.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Genç Yeni Hat Bütçe Dostu 4+4 GB",
+    "gb": 8,
+    "minutes": "1000 minutes",
+    "price": 240.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Genç Yeni Hat Bütçe Dostu 8+8 GB",
+    "gb": 16,
+    "minutes": "1000 minutes",
+    "price": 300.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Genç Yeni Hat Bütçe Dostu 12+12 GB",
+    "gb": 24,
+    "minutes": "1000 minutes",
+    "price": 350.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Genç Yeni Hat Bütçe Dostu 20+20 GB",
+    "gb": 40,
+    "minutes": "1000 minutes",
+    "price": 450.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Genç Yeni Red Sınırsız Tiktok 30+30 GB",
+    "gb": 60,
+    "minutes": "2000 minutes",
+    "price": 500.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Genç Yeni Red Sınırsız Sosyal 40+40 GB",
+    "gb": 80,
+    "minutes": "2500 minutes",
+    "price": 700.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Genç Yeni Red Sınırsız Video  50+50 GB",
+    "gb": 100,
+    "minutes": "3000 minutes",
+    "price": 900.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Genç Yeni Red Sınırsız Eğlence  80+80 GB",
+    "gb": 160,
+    "minutes": "4000 minutes",
+    "price": 1200.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Red Sınırsız Tiktok 30 GB",
+    "gb": 30,
+    "minutes": "2000 minutes",
+    "price": 580.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Red Sınırsız Sosyal 40 GB",
+    "gb": 40,
+    "minutes": "2500 minutes",
+    "price": 780.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Red Sınırsız Video 50 GB",
+    "gb": 50,
+    "minutes": "3000 minutes",
+    "price": 900.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Red Sınırsız Eğlence 80 GB",
+    "gb": 80,
+    "minutes": "4000 minutes",
+    "price": 1200.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Super65-Bütçe Dostu 4 GB",
+    "gb": 4,
+    "minutes": "1000 minutes",
+    "price": 270.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Super65-Bütçe Dostu 12 GB",
+    "gb": 12,
+    "minutes": "1000 minutes",
+    "price": 380.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Super65-Red Sınırsız Tiktok 30 GB",
+    "gb": 30,
+    "minutes": "2000 minutes",
+    "price": 580.0,
+    "specification": "Vodafone"
+  },
+  {
+    "name": "Türk Telekom Özel 21 GB",
+    "gb": 21,
+    "minutes": "2000 minutes",
+    "price": 580.0,
+    "specification": "Türk Telekom"
+  }
+]
