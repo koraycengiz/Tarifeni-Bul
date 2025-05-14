@@ -1,6 +1,6 @@
 # TARİFENİ BUL
 
-A new Flutter project.
+Tarifeni Bul (Find Your Plan) is an application that analyzes users' past mobile data usage habits and predicts their future data consumption using a custom-trained artificial intelligence model. Based on these predictions, it recommends the most suitable and efficient mobile plans from available operators. Users can favorite the plans they are interested in for later review and update their personal and data usage information through their profile page.
 
 ## Getting Started
 
